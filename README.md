@@ -25,7 +25,7 @@ conda create -n EGAS python=3.8.12
 conda activate EGAS
 pip install -r requirements.txt
 ```
-## Parameters  (in run_gaussian.py)
+## Parameters
 
 Gaussian function to calculate smooth weight:
 

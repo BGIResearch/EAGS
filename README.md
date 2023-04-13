@@ -21,8 +21,8 @@ you need to multiply it and Rounding.
 ## Install
 ```bash
 ### enviroment by Conda
-conda create -n EGAS python=3.8.12
-conda activate EGAS
+conda create -n EAGS python=3.8.12
+conda activate EAGS
 pip install -r requirements.txt
 ```
 ## Parameters
